@@ -1,0 +1,804 @@
+{
+    "data":[
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":37.29680482481997,
+          "upTime":3.792088652954847,
+          "region":"Hamburg",
+          "date":"01/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Data Storage",
+          "kilowattHour":32.17810093283276,
+          "upTime":3.5384400124158546,
+          "region":"Hamburg",
+          "date":"02/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":44.76780260217551,
+          "upTime":4.2571604938496215,
+          "region":"Hamburg",
+          "date":"03/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":32.51424805265959,
+          "upTime":4.370441507670131,
+          "region":"Hamburg",
+          "date":"04/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":41.23906702454848,
+          "upTime":3.2219470055211015,
+          "region":"Hamburg",
+          "date":"05/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":25.41511209653436,
+          "upTime":3.162191103451775,
+          "region":"Hamburg",
+          "date":"06/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":30.61555062498744,
+          "upTime":3.6942084328880025,
+          "region":"Hamburg",
+          "date":"07/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Data Storage",
+          "kilowattHour":53.221924200529294,
+          "upTime":2.2244773013792685,
+          "region":"Hamburg",
+          "date":"08/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":25.90688264354081,
+          "upTime":3.261342751485287,
+          "region":"Hamburg",
+          "date":"09/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":24.933356103944146,
+          "upTime":4.525798044119491,
+          "region":"Hamburg",
+          "date":"10/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":55.64317182143645,
+          "upTime":4.615116034505633,
+          "region":"Hamburg",
+          "date":"11/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":57.33161898364123,
+          "upTime":4.1689418721878395,
+          "region":"Hamburg",
+          "date":"12/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":30.984184503930926,
+          "upTime":3.005741094789771,
+          "region":"Hamburg",
+          "date":"13/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":58.95406926300293,
+          "upTime":4.312882987283257,
+          "region":"Hamburg",
+          "date":"14/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":30.83242182858377,
+          "upTime":2.279878950765959,
+          "region":"Hamburg",
+          "date":"15/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":40.98498277528771,
+          "upTime":2.1339740909501197,
+          "region":"Hamburg",
+          "date":"16/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":35.971165453715514,
+          "upTime":2.55281129053642,
+          "region":"Hamburg",
+          "date":"17/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":54.81960968780181,
+          "upTime":3.67611219938222,
+          "region":"Hamburg",
+          "date":"18/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":57.93831531062382,
+          "upTime":2.5660892408549545,
+          "region":"Hamburg",
+          "date":"19/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":24.864140716570997,
+          "upTime":2.3216283357787093,
+          "region":"Hamburg",
+          "date":"20/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Data Storage",
+          "kilowattHour":30.434382365753244,
+          "upTime":2.5500873251879708,
+          "region":"Hamburg",
+          "date":"21/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":48.16418387561453,
+          "upTime":3.093208102977723,
+          "region":"Hamburg",
+          "date":"22/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":32.239469570135334,
+          "upTime":4.217496574380236,
+          "region":"Hamburg",
+          "date":"23/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":58.04198207001859,
+          "upTime":2.8880132239723464,
+          "region":"Hamburg",
+          "date":"24/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":46.96084606405759,
+          "upTime":3.2140560143042123,
+          "region":"Hamburg",
+          "date":"25/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":54.884190678251905,
+          "upTime":4.539060768873644,
+          "region":"Hamburg",
+          "date":"26/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":59.701497118112016,
+          "upTime":2.994210614025408,
+          "region":"Hamburg",
+          "date":"27/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":26.167015496432832,
+          "upTime":2.4280457058626252,
+          "region":"Hamburg",
+          "date":"28/01/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":32.817500975423634,
+          "upTime":4.040749084652573,
+          "region":"Hamburg",
+          "date":"29/01/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":32.64887331435535,
+          "upTime":3.0954516923686257,
+          "region":"Hamburg",
+          "date":"30/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":31.882944182388332,
+          "upTime":2.9468601903748004,
+          "region":"Hamburg",
+          "date":"31/01/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":24.875589331629474,
+          "upTime":4.071545602508376,
+          "region":"Hamburg",
+          "date":"01/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":22.495953841375478,
+          "upTime":4.177585458988478,
+          "region":"Hamburg",
+          "date":"02/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":41.491986491416206,
+          "upTime":4.3565981429516345,
+          "region":"Hamburg",
+          "date":"03/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":46.081521718235805,
+          "upTime":2.5951107452936877,
+          "region":"Hamburg",
+          "date":"04/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":45.54648614407173,
+          "upTime":2.477396872248484,
+          "region":"Hamburg",
+          "date":"05/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":55.8982547451252,
+          "upTime":3.1375554826746948,
+          "region":"Hamburg",
+          "date":"06/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":45.92482755979523,
+          "upTime":3.1886026912473344,
+          "region":"Hamburg",
+          "date":"07/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":44.469491544661096,
+          "upTime":2.8486932026775795,
+          "region":"Hamburg",
+          "date":"08/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":40.69453484431817,
+          "upTime":4.7746340498187765,
+          "region":"Hamburg",
+          "date":"09/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":35.7808467605162,
+          "upTime":2.875518926700962,
+          "region":"Hamburg",
+          "date":"10/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":26.68866792099983,
+          "upTime":4.051122435890516,
+          "region":"Hamburg",
+          "date":"11/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":32.46906000111974,
+          "upTime":4.664733421747773,
+          "region":"Hamburg",
+          "date":"12/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":20.913436245190464,
+          "upTime":2.5375111880507846,
+          "region":"Hamburg",
+          "date":"13/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":58.0189595849689,
+          "upTime":3.2606169247281263,
+          "region":"Hamburg",
+          "date":"14/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":49.803533684699886,
+          "upTime":2.185946291694485,
+          "region":"Hamburg",
+          "date":"15/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":23.159536594350506,
+          "upTime":2.410676902779234,
+          "region":"Hamburg",
+          "date":"16/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":25.61781894670373,
+          "upTime":2.2157714009074354,
+          "region":"Hamburg",
+          "date":"17/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Data Storage",
+          "kilowattHour":40.453961988638724,
+          "upTime":4.2218532384622565,
+          "region":"Hamburg",
+          "date":"18/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":28.210282038099056,
+          "upTime":2.871434991611915,
+          "region":"Hamburg",
+          "date":"19/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":39.431737862977855,
+          "upTime":3.4292096340450344,
+          "region":"Hamburg",
+          "date":"20/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Web Hosting",
+          "kilowattHour":29.817173415787845,
+          "upTime":3.3485187193422634,
+          "region":"Hamburg",
+          "date":"21/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":31.061984892428022,
+          "upTime":4.131808435529148,
+          "region":"Hamburg",
+          "date":"22/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":51.90176916835969,
+          "upTime":2.9342892114166554,
+          "region":"Hamburg",
+          "date":"23/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":25.113228254864456,
+          "upTime":3.0636688202964613,
+          "region":"Hamburg",
+          "date":"24/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":47.71891947450907,
+          "upTime":4.7881895225056486,
+          "region":"Hamburg",
+          "date":"25/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":32.26485174336942,
+          "upTime":2.7806805392928426,
+          "region":"Hamburg",
+          "date":"26/02/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":43.2572512973697,
+          "upTime":3.968487215351814,
+          "region":"Hamburg",
+          "date":"27/02/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":43.804552264851054,
+          "upTime":2.6778520407880437,
+          "region":"Hamburg",
+          "date":"28/02/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":48.03242489391734,
+          "upTime":4.620065430774897,
+          "region":"Hamburg",
+          "date":"01/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":41.7154573461734,
+          "upTime":4.651585653295734,
+          "region":"Hamburg",
+          "date":"02/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":57.40208636298712,
+          "upTime":3.1278480503927746,
+          "region":"Hamburg",
+          "date":"03/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Data Storage",
+          "kilowattHour":25.634036481046255,
+          "upTime":4.346191179942467,
+          "region":"Hamburg",
+          "date":"04/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":52.15855758572128,
+          "upTime":2.432422501780895,
+          "region":"Hamburg",
+          "date":"05/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":37.5447361330631,
+          "upTime":4.249934133786103,
+          "region":"Hamburg",
+          "date":"06/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":30.57368870398551,
+          "upTime":4.475334461344488,
+          "region":"Hamburg",
+          "date":"07/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":39.02217805605957,
+          "upTime":2.6896038436047043,
+          "region":"Hamburg",
+          "date":"08/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":58.830615571157225,
+          "upTime":3.3590352183207894,
+          "region":"Hamburg",
+          "date":"09/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":49.7043651195393,
+          "upTime":3.3076748227227877,
+          "region":"Hamburg",
+          "date":"10/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":28.104182068455053,
+          "upTime":3.4734070199683833,
+          "region":"Hamburg",
+          "date":"11/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":55.227921205654845,
+          "upTime":2.719772600694019,
+          "region":"Hamburg",
+          "date":"12/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":52.18088297760333,
+          "upTime":2.1439940252865872,
+          "region":"Hamburg",
+          "date":"13/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Data Storage",
+          "kilowattHour":25.255125376012835,
+          "upTime":4.277880415580327,
+          "region":"Hamburg",
+          "date":"14/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":31.680975131807823,
+          "upTime":2.366464390752241,
+          "region":"Hamburg",
+          "date":"15/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":32.99833664279126,
+          "upTime":4.571272486488191,
+          "region":"Hamburg",
+          "date":"16/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":52.38769196936844,
+          "upTime":4.190053830108139,
+          "region":"Hamburg",
+          "date":"17/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":50.761242772901774,
+          "upTime":2.158268423290582,
+          "region":"Hamburg",
+          "date":"18/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":32.773879140849296,
+          "upTime":3.7886000564642877,
+          "region":"Hamburg",
+          "date":"19/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":57.1862104359612,
+          "upTime":2.1664163107225103,
+          "region":"Hamburg",
+          "date":"20/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":45.9052656694994,
+          "upTime":4.462322505222678,
+          "region":"Hamburg",
+          "date":"21/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":36.86397213102532,
+          "upTime":2.065701027074634,
+          "region":"Hamburg",
+          "date":"22/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":34.05921927309181,
+          "upTime":2.5305470744398084,
+          "region":"Hamburg",
+          "date":"23/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":20.10108357639456,
+          "upTime":2.502828399849439,
+          "region":"Hamburg",
+          "date":"24/03/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":31.465678560512913,
+          "upTime":2.977796560523309,
+          "region":"Hamburg",
+          "date":"25/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":58.53085781554944,
+          "upTime":3.169177261881571,
+          "region":"Hamburg",
+          "date":"26/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":29.692941452740982,
+          "upTime":3.567116087552266,
+          "region":"Hamburg",
+          "date":"27/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Data Storage",
+          "kilowattHour":37.21650681808212,
+          "upTime":3.217126852276303,
+          "region":"Hamburg",
+          "date":"28/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":34.81256425226786,
+          "upTime":2.145939020221967,
+          "region":"Hamburg",
+          "date":"29/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":30.467591361206704,
+          "upTime":3.18181414639566,
+          "region":"Hamburg",
+          "date":"30/03/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":29.479064292582237,
+          "upTime":4.850931064252921,
+          "region":"Hamburg",
+          "date":"31/03/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":20.29681347056563,
+          "upTime":2.816253160327319,
+          "region":"Hamburg",
+          "date":"01/04/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":30.004497680524317,
+          "upTime":3.99309074198487,
+          "region":"Hamburg",
+          "date":"02/04/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":48.86832544493781,
+          "upTime":4.236663353586554,
+          "region":"Hamburg",
+          "date":"03/04/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Web Hosting",
+          "kilowattHour":59.54322978692227,
+          "upTime":4.003378485028445,
+          "region":"Hamburg",
+          "date":"04/04/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":20.89697264305384,
+          "upTime":4.626431676611183,
+          "region":"Hamburg",
+          "date":"05/04/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":59.03096418600474,
+          "upTime":3.6557813919760287,
+          "region":"Hamburg",
+          "date":"06/04/2023"
+       },
+       {
+          "serverName":"GHI",
+          "serviceName":"Web Hosting",
+          "kilowattHour":59.877381741079056,
+          "upTime":2.72749264995357,
+          "region":"Hamburg",
+          "date":"07/04/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":54.45891434383051,
+          "upTime":2.383502625635258,
+          "region":"Hamburg",
+          "date":"08/04/2023"
+       },
+       {
+          "serverName":"DEF",
+          "serviceName":"Data Storage",
+          "kilowattHour":43.77536421288942,
+          "upTime":2.7446132491851265,
+          "region":"Hamburg",
+          "date":"09/04/2023"
+       },
+       {
+          "serverName":"ABC",
+          "serviceName":"Virtual Machine",
+          "kilowattHour":36.2004943730029,
+          "upTime":3.2196509476696296,
+          "region":"Hamburg",
+          "date":"10/04/2023"
+       }
+    ]
+ }
