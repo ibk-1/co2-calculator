@@ -3,7 +3,7 @@ import DataGraph from './components/DataGraph';
 import FileUpload from './components/FileUpload';
 import CustomDateRangePicker from './components/DateRangePicker';
 import React, { useState, useEffect } from 'react';
-
+import DataGraphComponent from './components/DataGraphComponent'
 
 function App() {
   const [data, setData] = useState([]);
@@ -54,7 +54,12 @@ function App() {
   return (
     <div className="App">
       <h1>CO2 Emission Visualization Dashboard</h1>
-      <p>Please Upload the Data File to visualise the Emission</p>
+      <p>Please Upload the CSV Data File to visualise the Emission</p>
+      <div>
+        <DataGraphComponent />
+      </div>
+      <br />
+      <p>The Below Graph Uses JSON and Time Series.</p>
       <FileUpload onFileSelect={handleFileSelect} />
       
       <div className='filters'>
@@ -77,6 +82,7 @@ function App() {
       <div className="graph-container">
       <DataGraph className='DateRangePicker' data={data} filters={filters} />
       </div>
+      
     </div>
   );
 }
