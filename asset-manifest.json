@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/co2-calculator/static/css/main.283cd833.css",
-    "main.js": "/co2-calculator/static/js/main.596c5115.js",
+    "main.js": "/co2-calculator/static/js/main.cb95877e.js",
     "static/js/787.3724819c.chunk.js": "/co2-calculator/static/js/787.3724819c.chunk.js",
     "index.html": "/co2-calculator/index.html",
     "main.283cd833.css.map": "/co2-calculator/static/css/main.283cd833.css.map",
-    "main.596c5115.js.map": "/co2-calculator/static/js/main.596c5115.js.map",
+    "main.cb95877e.js.map": "/co2-calculator/static/js/main.cb95877e.js.map",
     "787.3724819c.chunk.js.map": "/co2-calculator/static/js/787.3724819c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.283cd833.css",
-    "static/js/main.596c5115.js"
+    "static/js/main.cb95877e.js"
   ]
 }
