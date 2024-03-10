@@ -59,7 +59,7 @@ function App() {
         <DataGraphComponent />
       </div>
       <br />
-      <p>The Below Graph Uses JSON and Time Series.</p>
+      {/* <p>The Below Graph Uses JSON and Time Series.</p>
       <FileUpload onFileSelect={handleFileSelect} />
       
       <div className='filters'>
@@ -81,7 +81,7 @@ function App() {
       </div>
       <div className="graph-container">
       <DataGraph className='DateRangePicker' data={data} filters={filters} />
-      </div>
+      </div> */}
       
     </div>
   );

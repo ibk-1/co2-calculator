@@ -52,7 +52,7 @@ const DataGraphComponent = () => {
         <BarChart data={aggregateData()} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" />
-          <YAxis label={{ value: 'CO2 Emissions (kg CO2)', angle: -90, position: 'insideLeft' }} />
+          <YAxis label={{ value: 'CO2 Emissions (kg CO2)', angle: -90, position: 'center' }} />
           <Tooltip />
           <Legend />
           <Bar dataKey="CO2Emission" fill="#8884d8" />
